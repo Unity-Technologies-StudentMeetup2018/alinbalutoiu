@@ -1,0 +1,5 @@
+﻿  pathfinding.cpp
+c:\users\alin\desktop\unity-pathfinding\pathfinding\pathfinding\pathfinding.cpp(35): warning C4267: 'initializing': conversion from 'size_t' to 'int32_t', possible loss of data
+c:\users\alin\desktop\unity-pathfinding\pathfinding\pathfinding\pathfinding.cpp(28): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+  pathfinding.vcxproj -> C:\Users\alin\Desktop\unity-pathfinding\pathfinding\x64\Debug\pathfinding.exe
